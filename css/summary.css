@@ -9,12 +9,6 @@ body {
   margin: 0;
 }
 
-.sidebar {
-  width: 232px;
-  height: 100vh;
-  background-color: #2a3647;
-}
-
 .summary-overview {
   width: 560px;
   height: 562px;
